@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Durgesh 
 - I’m a Full Stack Developer having good Experience in MERN Stack and love learning new Technologies
-- I know Python and Javascript also i am learning C++ and Java
+- I know Python and Javascript 
 - Here is My Linkedin Profile Link :- https://www.linkedin.com/in/durgesh-goswami-129394201
 
 
